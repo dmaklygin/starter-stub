@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "authors": [
+    "Dmitry Maklygin <d.maklygin@gmail.com>"
+  ],
+  "description": "test application",
+  "main": "app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "node_modules",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	  "jquery": null,
+	  "backbone": null,
+	  "underscore": null,
+	  "requirejs": null
+  }
+}

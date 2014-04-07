@@ -1,0 +1,22 @@
+{
+  "name": "starter-stub",
+  "version": "0.0.1",
+  "description": "stub project",
+  "keywords": [
+    "amd", "backbone", "bower"
+  ],
+  "author": "d.maklygin",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-coffee": "latest",
+    "grunt-contrib-requirejs": "latest",
+    "grunt-bower-requirejs": "^0.10.0"
+  },
+  "dependencies": {
+    "bower": "^1.3.2",
+    "bower-requirejs": "^0.10.3"
+  }
+}
